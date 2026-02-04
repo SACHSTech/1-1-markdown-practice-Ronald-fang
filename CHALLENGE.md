@@ -51,15 +51,9 @@ _Click the image above to visit the Markdown Guide website._
 >>
 >>>And yet, within that, artists like *Kendrick Lamar* prove that innovation and depth are still alive.  
 
-Example 5
-Tool, Strengths, Weaknesses
-GitHub
-Easy collaboration, integrates CI/CD
-Requires knowledge of git
-
-Markdown
-Lightweight, portable, human-readable
-Limited styling compared to HTML
-
-VS CodeExtensions, debugging, free
-Can feel heavy on low-end machines
+## Example 5
+|  Tool  | Strengths | Weaknesses  |
+|-----|-----------|------------|
+|GitHub | Easy collaboration, integrates CI/CD | Requires knowledge of <mark>git</mark>|
+| Markdown | Lightweight, portable, human-readable | Limited styling compared to HTML |
+| VS Code | Extensions, debugging, free | Can feel heavy on low-end machines |
